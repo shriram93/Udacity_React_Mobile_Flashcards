@@ -12,5 +12,8 @@ This application is a project given by Udacity to practice React Native and Redu
 * Install all project dependencies with `npm install`
 * Start the development server with `npm start`
 
+## Platform tested
+* Andriod 8.0(Oreo)
+
 ## Author
 - Shriram Ethiraj
